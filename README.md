@@ -1,148 +1,155 @@
-# 👋 Hola, soy Sebastián Alexander Villacrisis
+# Hola a todos, soy Sebastián Alexander Villacrisis 👋
+### Desarrollador Full Stack | Java & Angular
 
-🎓 Estudiante de **Computación e Informática** en **Cibertec (5to ciclo)**  
-💻 **Desarrollador Full Stack en formación**  
-🚀 Apasionado por la programación, la tecnología y el aprendizaje continuo  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+
+<p width="45%">
+Hola, mucho gusto. Permíteme presentarme en unas líneas.
+<ul>
+  <li>👨‍💻 Soy <b>Desarrollador Full Stack en formación</b></li>
+  <li>🎓 Estudiante de <b>Computación e Informática</b> (5to ciclo) en <b>Cibertec</b></li>
+  <li>💻 Especializado en <b>Java, Spring Boot, Angular y JavaScript</b></li>
+  <li>🌱 Actualmente aprendiendo <b>Spring Boot avanzado, Angular y Cloud</b></li>
+  <li>💬 Pregúntame sobre <b>Java, Angular, APIs REST, JWT y Bases de Datos</b></li>
+  <li>📮 Puedes contactarme aquí: <b>sebalexa1@gmail.com</b></li>
+</ul>
+
+Apasionado por la programación y la tecnología, disfruto crear aplicaciones full stack siguiendo buenas prácticas y arquitectura limpia.
+<br><br>
+Me enfoco en desarrollar <b>aplicaciones seguras, escalables y mantenibles</b> utilizando tecnologías modernas como <b>Spring Boot, Angular, APIs REST, autenticación JWT</b> y bases de datos relacionales y NoSQL.
+<br><br>
+Si deseas colaborar o conversar sobre desarrollo de software, no dudes en contactarme 🚀
+</p>
 
 ---
 
-## 🧑‍💻 Sobre mí
-
-Soy estudiante de Computación e Informática con sólida formación en **Java, JavaScript, Angular y Spring Boot**.  
-He complementado mis estudios con certificaciones en **Udemy** orientadas al desarrollo **Full Stack**, trabajando con **APIs REST, autenticación JWT, bases de datos y arquitectura limpia**.
-
-Me motiva crear soluciones innovadoras, aprender constantemente y aplicar mis conocimientos en proyectos reales que generen valor y buenas prácticas de desarrollo.
+## 🌐 Puedes encontrarme en:
+<p align="center">
+  <a href="mailto:sebalexa1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🖥️ Mi Stack Tecnológico
 
 ### 💻 Lenguajes
-- Java
-- JavaScript
-- TypeScript
-- Python
-- C#
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/><br>Java
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br>Python
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48"/><br>C#
+</td>
+</tr>
+</table>
+
+---
 
 ### 🎨 Front-end
-- Angular
-- React
-- HTML5
-- CSS3
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="48"/><br>Angular
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/><br>React
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/><br>HTML5
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/><br>CSS3
+</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ Back-end
-- Java SE
-- Spring Boot
-- Hibernate
-- Jakarta EE
-- Servlets / JSP
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48"/><br>Spring Boot
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/><br>Java SE
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="48"/><br>Hibernate
+</td>
+</tr>
+</table>
+
+---
 
 ### 🗄️ Bases de Datos
-- MySQL
-- SQL Server
-- MongoDB
-- Firebase / Firestore
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/><br>MySQL
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/><br>SQL Server
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/><br>Firebase
+</td>
+</tr>
+</table>
+
+---
 
 ### 🔧 Herramientas
-- Git & GitHub
-- IntelliJ IDEA
-- Eclipse
-- NetBeans
-- VS Code
-- Visual Studio 2022
-
----
-
-## 📚 Cursos y Certificaciones
-
-### 🎓 Universidad Java – Udemy
-- Java SE 21
-- Spring Boot 3
-- Hibernate 6 y JPA
-- Jakarta EE 11
-- Microservicios
-- APIs REST
-- Seguridad con JWT
-- Docker y Maven
-- Pruebas unitarias
-- Arquitectura modular
-- Patrones de diseño
-- Integración Full Stack (Angular + Spring Boot / React + Spring Boot)
-- Bases de datos MySQL
-- Despliegue en la nube
-- Buenas prácticas y proyectos reales
-
-### 🎓 Universidad Angular – Udemy
-- Desarrollo de aplicaciones web modernas con Angular
-- Componentes, directivas, servicios y pipes
-- Formularios reactivos
-- Routing y modularización
-- Consumo de APIs REST
-- Autenticación con JWT
-- Firebase y Firestore
-- Optimización y despliegue
-- HTML, CSS, JavaScript y TypeScript
-
-### 🎓 Universidad JavaScript – Udemy
-- Fundamentos de JavaScript
-- Lógica de programación
-- Manipulación del DOM
-- Programación Orientada a Objetos
-- Arrow Functions, Callbacks, Promesas
-- Async / Await
-- Manejo de errores
-- Módulos
-- Proyectos prácticos con HTML, CSS y JS
-- Introducción a TypeScript y Angular
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🔹 Sistema de Ventas Full Stack
-**Tecnologías:** Angular | Spring Boot | MySQL | JWT  
-- Autenticación y autorización con JWT
-- CRUD completo
-- Arquitectura por capas
-- API REST segura
-- Integración Front-end y Back-end
-
-### 🔹 API REST de Usuarios
-**Tecnologías:** Spring Boot | Hibernate | JPA | MySQL  
-- Gestión de usuarios
-- Seguridad con JWT
-- Validaciones
-- Buenas prácticas REST
-- Arquitectura limpia
-
-### 🔹 Aplicación Web con Firebase
-**Tecnologías:** Angular | Firebase | Firestore  
-- Autenticación de usuarios
-- Base de datos en la nube
-- CRUD en tiempo real
-- Despliegue web
-
----
-
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/><br>Git
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48"/><br>GitHub
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/><br>Docker
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/><br>VS Code
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌎 Idiomas
-
 - Español: Nativo  
-- Inglés: En aprendizaje
+- Inglés: En aprendizaje  
 
 ---
 
-## 📫 Contacto
+<div align="center">
 
-📧 Email: **sebalexa1@gmail.com**  
-📱 Teléfono: **932 464 442**  
+### ¡Muéstrame algo de ❤️ dando estrella a mis repositorios!
+
+</div>
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Siempre abierto a aprender, colaborar y crecer como desarrollador.*
+**Última actualización:** 2025  
+**Sebastián Alexander Villacrisis**
